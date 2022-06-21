@@ -1,1 +1,3 @@
 # react-cli-tmpl
+
+{{project}}

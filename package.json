@@ -1,0 +1,8 @@
+{
+  "name": "{{project}}",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fanwenlie/react-cli-tmpl.git",
+  "author": "fanwenlie <fanwenlie@joyy.com>",
+  "license": "MIT"
+}
